@@ -1,1 +1,1 @@
-# projekt2020
+# project Euler 2020
